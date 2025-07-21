@@ -2,7 +2,7 @@
 
 "Mitigasi Kita" is an application designed to help the people of Indonesia understand and prepare for various potential risks and disasters, such as earthquakes and tsunamis. This app supports public awareness and community preparedness through interactive and informative features.
 
-![logoApp](./mitigasi-kita-app-frontend/public/logo-app.png)
+![logoApp](https://res.cloudinary.com/dlfpviz7i/image/upload/logo-app_dpblnq.png)
 
 ## Main Features
 
