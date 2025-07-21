@@ -1,0 +1,3 @@
+[submodule "mitigasi-kita-app-frontend"]
+	path = mitigasi-kita-app-frontend
+	url = https://github.com/zainalsaputra/mitigasi-kita-app-frontend
