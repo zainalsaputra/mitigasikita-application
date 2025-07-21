@@ -4,3 +4,6 @@
 [submodule "mitigasi-kita-app-backend"]
 	path = mitigasi-kita-app-backend
 	url = https://github.com/zainalsaputra/mitigasi-kita-app-backend
+[submodule "earthquake-tsunami-model-api"]
+	path = earthquake-tsunami-model-api
+	url = https://github.com/zainalsaputra/earthquake-tsunami-model-api
